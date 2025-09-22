@@ -10,9 +10,14 @@
       <sourceFolder url="file://$MODULE_DIR$/src2/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src3/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src3/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src4/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src4/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src5/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src5/test/java" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="appngaytieptheo" level="project" />
+    <orderEntry type="library" name="junit.jupiter" level="project" />
   </component>
 </module>
